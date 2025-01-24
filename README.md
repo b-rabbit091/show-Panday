@@ -1,7 +1,4 @@
-# show-Panday
-WA  Lab 2
-
-# Anil
+# Anil Panday
 
 ## Favorite Food: Pizza
 
