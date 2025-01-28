@@ -19,7 +19,7 @@ If I had to choose other actors to play Cooper, here’s a list of actors who co
 ---
 ## Image of Matthew McConaughey
 
-![Matthew McConaughey as Cooper](resources\img\Interstellar.webp)
+![Matthew McConaughey as Cooper](resources/img/Interstellar.webp)
 
 ---
 ## Link to the Main Movie Page
