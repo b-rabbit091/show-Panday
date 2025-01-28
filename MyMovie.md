@@ -26,3 +26,14 @@ If I had to choose other actors to play Cooper, here’s a list of actors who co
 
 [Back to my favorite movie: Interstellar](./README.md)
 
+---
+
+## Inspirational Quotes
+
+---
+
+> "Success is not final, failure is not fatal: It is the courage to continue that counts."  
+*Winston Churchill*
+
+> "The only limit to our realization of tomorrow is our doubts of today."  
+*Franklin D. Roosevelt*
