@@ -37,3 +37,26 @@ If I had to choose other actors to play Cooper, here’s a list of actors who co
 
 > "The only limit to our realization of tomorrow is our doubts of today."  
 *Franklin D. Roosevelt*
+
+---
+## SID : S576701
+### TypeScript Code Snippet
+
+---
+
+#### Exclude Property in TypeScript
+
+This code snippet shows how to use TypeScript to exclude a property from an interface .
+
+```typescript
+interface MyInterface {
+  id: number;
+  name: string;
+  properties: string[];
+}
+
+type MyShortType = Omit;
+```
+#### TypeScript Collection Link
+
+[Click here - TypeScript Collection](https://code.pieces.app/collections/typescript)
